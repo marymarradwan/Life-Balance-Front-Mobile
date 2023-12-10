@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">736355387773397</string>
+    <string name="fb_login_protocol_scheme">42e81043f4d9c2287e1b8d5a17e71db5</string>
+    <string name="app_name">CircuLife</string>
+
+</resources>
