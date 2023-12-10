@@ -58,6 +58,7 @@ Home
 
 <div align="center">
 Dashboard
+  
 ![dashbord life](https://github.com/leen123/Life-Balance-Front-Mobile/assets/58842963/c15cd027-9ccd-47f1-ae49-cd84716d1cb4)  ![dashbord habis](https://github.com/leen123/Life-Balance-Front-Mobile/assets/58842963/32b21c34-d370-423d-bd6e-bc97f1c29b97)
 
 </div>
@@ -65,12 +66,14 @@ Dashboard
 
 <div align="center">
 Section
+  
 ![section](https://github.com/leen123/Life-Balance-Front-Mobile/assets/58842963/a51c55c7-0e7e-478e-9d53-63640621d994)
 
 </div>
 
 <div align="center">
 Other
+  
 ![journal](https://github.com/leen123/Life-Balance-Front-Mobile/assets/58842963/4574f096-8434-459c-a613-b94de3532052)   ![اختيار انشطة](https://github.com/leen123/Life-Balance-Front-Mobile/assets/58842963/af5ab815-9888-4611-bc5f-1ea60669fe90)
 
 ![reset pass2](https://github.com/leen123/Life-Balance-Front-Mobile/assets/58842963/4faa59b6-82d0-4352-8eee-6a1a5860a7ef)   ![reset password](https://github.com/leen123/Life-Balance-Front-Mobile/assets/58842963/55b39e25-27dc-4814-a617-9381237590f2)
