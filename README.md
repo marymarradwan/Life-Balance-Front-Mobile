@@ -51,10 +51,10 @@ One of the key incentives for building the project is our approach to time organ
 ## ScreenShots
 <div align="center">
 Home
-  
-</div>
 
 ![home page](https://github.com/leen123/Life-Balance-Front-Mobile/assets/58842963/ecb82707-0ba3-4e82-904e-f29916ad548c)
+
+</div>
 
 
 <div align="center">
